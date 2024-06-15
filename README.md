@@ -23,6 +23,11 @@ Run following command line by line
 ## Development server
 Run `python manage.py runserver` for a dev server. Navigate to `http://127.0.0.1:8000/api/`
 
+## Output
+![Screenshot 2024-06-15 124812](https://github.com/amitgit712/health-monitor-api/assets/67471434/bd42bcdb-fd39-4352-b6b1-fac64dc472de)
+
+![Screenshot 2024-06-15 125012](https://github.com/amitgit712/health-monitor-api/assets/67471434/cf1c7883-8e40-4be8-a122-da16e2ec68f5)
+
 ## Further help
 
 To get more help on the [Django Docs](https://docs.djangoproject.com/en/5.0/) page.
